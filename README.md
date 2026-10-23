@@ -1,5 +1,5 @@
 # RB-THC: Ranked-beam tabu hill climbing for Sokoban
-Code and results for "A ranked beam tabu method for Sokoban puzzle solving" (IJ-AI, Paper ID 32180).
+Code and results for "A ranked beam tabu method for Sokoban puzzle solving".
 
 - `RBTHC_revision_experiments.ipynb` — full experiment (run on Google Colab; Runtime → Run all, ~20 min)
 - `results/` — raw run logs (CSV), tables and 300-dpi figures used in the paper
