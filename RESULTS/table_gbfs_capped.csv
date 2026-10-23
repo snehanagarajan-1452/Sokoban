@@ -1,0 +1,10 @@
+tier,solver,solve_rate,peak_mem_max
+hard,GBFS,100.0,2407
+hard,GBFS-cap,68.0,504
+hard,RB-THC,54.400000000000006,272
+medium,GBFS,99.4,3800
+medium,GBFS-cap,82.39999999999999,504
+medium,RB-THC,78.4,272
+unfiltered,GBFS,100.0,3886
+unfiltered,GBFS-cap,96.39999999999999,504
+unfiltered,RB-THC,99.0,241
